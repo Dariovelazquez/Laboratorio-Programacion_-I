@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1522887094 source:d:\dariovelazquez\funciones\getint.c
+	<stdio.h>
+	<stdlib.h>
+
+1522886285 source:d:\dariovelazquez\funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"getInt.h"
+
+1522886891 d:\dariovelazquez\funciones\getint.h
+
